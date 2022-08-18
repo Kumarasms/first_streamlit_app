@@ -1,3 +1,3 @@
 import streamlit
 
-stramlit.title('My New Github streamlit app')
+streamlit.title('My New Github streamlit app')
